@@ -9,7 +9,7 @@
 #define SERVER_TIMEOUT 28799
 
 //Max send buffer len
-#define MAX_TXBUFFER 1024
+#define MAX_TXBUFFER 2048
 
 typedef struct serverConnData serverConnData;
 
